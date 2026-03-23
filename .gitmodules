@@ -1,0 +1,54 @@
+[submodule "oai-cn5g-amf"]
+	path = oai-cn5g-amf
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-amf.git
+[submodule "oai-cn5g-ausf"]
+	path = oai-cn5g-ausf
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-ausf.git
+[submodule "oai-cn5g-common-build"]
+	path = oai-cn5g-common-build
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-common-build.git
+[submodule "oai-cn5g-common-ci"]
+	path = oai-cn5g-common-ci
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-common-ci.git
+[submodule "oai-cn5g-common-src"]
+	path = oai-cn5g-common-src
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-common-src.git
+[submodule "oai-cn5g-fed"]
+	path = oai-cn5g-fed
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-fed.git
+[submodule "oai-cn5g-lmf"]
+	path = oai-cn5g-lmf
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-lmf.git
+[submodule "oai-cn5g-nef"]
+	path = oai-cn5g-nef
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-nef.git
+[submodule "oai-cn5g-nrf"]
+	path = oai-cn5g-nrf
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-nrf.git
+[submodule "oai-cn5g-nssf"]
+	path = oai-cn5g-nssf
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-nssf.git
+[submodule "oai-cn5g-nwdaf"]
+	path = oai-cn5g-nwdaf
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-nwdaf.git
+[submodule "oai-cn5g-pcf"]
+	path = oai-cn5g-pcf
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-pcf.git
+[submodule "oai-cn5g-smf"]
+	path = oai-cn5g-smf
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-smf.git
+[submodule "oai-cn5g-udm"]
+	path = oai-cn5g-udm
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-udm.git
+[submodule "oai-cn5g-udr"]
+	path = oai-cn5g-udr
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-udr.git
+[submodule "oai-cn5g-upf"]
+	path = oai-cn5g-upf
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-upf.git
+[submodule "oai-cn5g-upf-sdfabric"]
+	path = oai-cn5g-upf-sdfabric
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-upf-sdfabric.git
+[submodule "oai-cn5g-upf-vpp"]
+	path = oai-cn5g-upf-vpp
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-upf-vpp.git
