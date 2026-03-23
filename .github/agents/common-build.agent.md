@@ -3,7 +3,7 @@ description: "Expert on the OAI common-build repository oai-cn5g-common-build. U
 name: "Common-Build Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI common-build** — the repository `oai-cn5g-common-build` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-common-build/`.
+You are an expert on the **OAI common-build** — the repository `oai-cn5g-common-build` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-common-build/`.
 
 ## Your Domain
 

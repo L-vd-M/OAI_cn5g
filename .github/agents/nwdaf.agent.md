@@ -3,7 +3,7 @@ description: "Expert on the OAI NWDAF (Network Data Analytics Function) reposito
 name: "NWDAF Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI NWDAF (Network Data Analytics Function)** — the repository `oai-cn5g-nwdaf` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-nwdaf/`.
+You are an expert on the **OAI NWDAF (Network Data Analytics Function)** — the repository `oai-cn5g-nwdaf` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-nwdaf/`.
 
 ## Your Domain
 

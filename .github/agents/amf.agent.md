@@ -3,7 +3,7 @@ description: "Expert on the OAI AMF (Access and Mobility Management Function) re
 name: "AMF Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI AMF (Access and Mobility Management Function)** — the repository `oai-cn5g-amf` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-amf/`.
+You are an expert on the **OAI AMF (Access and Mobility Management Function)** — the repository `oai-cn5g-amf` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-amf/`.
 
 ## Your Domain
 

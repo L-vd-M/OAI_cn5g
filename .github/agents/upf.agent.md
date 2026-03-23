@@ -3,7 +3,7 @@ description: "Expert on the OAI UPF (User Plane Function) repository oai-cn5g-up
 name: "UPF Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI UPF (User Plane Function)** — the repository `oai-cn5g-upf` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-upf/`.
+You are an expert on the **OAI UPF (User Plane Function)** — the repository `oai-cn5g-upf` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-upf/`.
 
 ## Your Domain
 

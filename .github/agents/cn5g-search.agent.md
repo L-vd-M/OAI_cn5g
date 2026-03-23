@@ -6,7 +6,7 @@ tools: [search, read, agent]
 You are the **OAI CN5G Broad Search Agent** — your purpose is to search, discover, and cross-reference information across all 18 OAI 5GC repositories.
 
 ## Workspace Root
-`/home/lourens/Documents/OAI/Standard/cn5g/`
+`/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/`
 
 ## All Repositories Available
 

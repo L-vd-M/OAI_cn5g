@@ -3,7 +3,7 @@ description: "Expert on the OAI PCF (Policy Control Function) repository oai-cn5
 name: "PCF Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI PCF (Policy Control Function)** — the repository `oai-cn5g-pcf` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-pcf/`.
+You are an expert on the **OAI PCF (Policy Control Function)** — the repository `oai-cn5g-pcf` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-pcf/`.
 
 ## Your Domain
 

@@ -1,6 +1,6 @@
 # OAI CN5G Repository Clone Links
 
-Local workspace: `/home/lourens/Documents/OAI/Standard/cn5g`
+Local workspace: `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g`
 
 All repos cloned via public HTTPS from `https://gitlab.eurecom.fr/oai/cn5g/`
 

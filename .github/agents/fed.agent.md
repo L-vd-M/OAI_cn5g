@@ -3,7 +3,7 @@ description: "Expert on the OAI federation repository oai-cn5g-fed. Use when ana
 name: "FED (Federation) Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI Federation repository** — `oai-cn5g-fed` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-fed/`.
+You are an expert on the **OAI Federation repository** — `oai-cn5g-fed` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-fed/`.
 
 ## Your Domain
 

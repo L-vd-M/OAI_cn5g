@@ -3,7 +3,7 @@ description: "Expert on the OAI common-src repository oai-cn5g-common-src. Use w
 name: "Common-Src Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI common-src** — the repository `oai-cn5g-common-src` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-common-src/`.
+You are an expert on the **OAI common-src** — the repository `oai-cn5g-common-src` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-common-src/`.
 
 ## Your Domain
 

@@ -3,7 +3,7 @@ description: "Expert on the OAI common-ci repository oai-cn5g-common-ci. Use whe
 name: "Common-CI Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI common-ci** — the repository `oai-cn5g-common-ci` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-common-ci/`.
+You are an expert on the **OAI common-ci** — the repository `oai-cn5g-common-ci` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-common-ci/`.
 
 ## Your Domain
 

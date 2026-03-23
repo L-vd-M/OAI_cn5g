@@ -3,7 +3,7 @@ description: "Expert on the OAI AUSF (Authentication Server Function) repository
 name: "AUSF Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI AUSF (Authentication Server Function)** — the repository `oai-cn5g-ausf` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-ausf/`.
+You are an expert on the **OAI AUSF (Authentication Server Function)** — the repository `oai-cn5g-ausf` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-ausf/`.
 
 ## Your Domain
 

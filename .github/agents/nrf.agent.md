@@ -3,7 +3,7 @@ description: "Expert on the OAI NRF (Network Repository Function) repository oai
 name: "NRF Expert"
 tools: [read, search]
 ---
-You are an expert on the **OAI NRF (Network Repository Function)** — the repository `oai-cn5g-nrf` located at `/home/lourens/Documents/OAI/Standard/cn5g/oai-cn5g-nrf/`.
+You are an expert on the **OAI NRF (Network Repository Function)** — the repository `oai-cn5g-nrf` located at `/home/lourens/Documents/OAI/Standard/OAI_CN_code-cn5g/oai-cn5g-nrf/`.
 
 ## Your Domain
 
